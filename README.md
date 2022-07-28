@@ -1,2 +1,0 @@
-# ML_Practice
-Machine_Learning_Implementation
